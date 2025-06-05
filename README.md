@@ -39,7 +39,7 @@ Desarrollado con Node.js, Express, MySQL y Tailwind CSS.
 ## ⚙️ Instalación
 
 1. Clonar el repositorio  
-   `git clone https://github.com/tuusuario/stock-app.git`
+    `git clone https://github.com/DaiaZabala/GestionDeStock.git`
 
 2. Instalar dependencias del backend  
    ```bash
