@@ -18,6 +18,7 @@ Desarrollado con Node.js, Express, MySQL y Tailwind CSS.
 ---
 
 ## 📁 Estructura del proyecto
+<!-- Esto es un comentario que no se ve al mostrar el README 
 
 ```
 /stock-app
@@ -33,9 +34,7 @@ Desarrollado con Node.js, Express, MySQL y Tailwind CSS.
 │   ├── main.js
 │   └── estilos.css
 ```
-
----
-
+-->
 ## ⚙️ Instalación
 
 1. Clonar el repositorio  
