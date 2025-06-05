@@ -1,5 +1,6 @@
 
-# 🧾 Sistema de Gestión de Stock
+# 🧾 Sistema de Gestión de Stock 
+## EN PROCESO
 
 Proyecto para gestionar productos, stock y movimientos de inventario.  
 Desarrollado con Node.js, Express, MySQL y Tailwind CSS.
