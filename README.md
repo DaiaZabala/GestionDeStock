@@ -18,6 +18,7 @@ Desarrollado con Node.js, Express, MySQL y Tailwind CSS.
 ---
 
 ## 📁 Estructura del proyecto
+## PROXIMAMENTE
 <!-- Esto es un comentario que no se ve al mostrar el README 
 
 ```
